@@ -19,10 +19,6 @@ The project is about pizza order .The customer  has to choose  any pizza he or s
     submit to recive total                     | total+meat+cheese  |  total=$25 
     Delivery of the pizza                      |enter your location |  deliver to Nairobi   
 
-Calculate the price of a custom pizza based on the options selected in the form	Custom Pizza Form: Select size, crust and toppings	Ksh. 780
-Display the total price of the custom pizza in the Cart column, and simultaneously refresh the form	Pizza price displayed on the cart	Cart: Price Ksh. 780
-Prompt location for delivery	Enter location	Your pizza will be delivered to: Kitengela
-Details will append in list form under the proper food category in the Cart	click on checkout button	medium-pizza - cheese-filled - bacon
 ## Technologies Used
  * HTML
  * CSS

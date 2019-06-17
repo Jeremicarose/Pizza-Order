@@ -12,8 +12,8 @@ The project is about pizza order .The customer  has to choose  any pizza he or s
 * Click the download button to clone my work
 
 ## BDD
-    
-    | Behaviour       | Input       | Output |
+     
+| Behaviour       | Input       | Output |
 | ------------- |:-------------:| -----:|
 | calculate the price of pizza      |select meat  | e price=$15|
 | submit to recive total      | total+meat+cheese   |   total=$25  |

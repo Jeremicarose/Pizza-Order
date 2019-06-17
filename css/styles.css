@@ -47,5 +47,6 @@ hr {
     padding:50px;
 }
 button{
-    padding:50px;
+    height:90px;
+    border-radius:50px;
 }
